@@ -1,0 +1,6 @@
+# Bu depoya kaynak kod ya da paket dosyası COMMİTLENMEZ.
+# Paketler sürüm (release) varlığı olarak yüklenir, git geçmişine girmez:
+# her paket ~100 MB ve geçmişten silinemezler.
+*
+!README.md
+!.gitignore
