@@ -13,7 +13,7 @@ En son sürüm: **[Releases](../../releases/latest)**
 | Debian / Ubuntu | `.deb` |
 | Diğer Linux | `.AppImage` |
 
-Paketleri indirmenin kolay yolu: **[jazari.app/indir](https://jazari.app)**
+Paketleri indirmenin kolay yolu: **[jazaricode.com/indir](https://jazaricode.com)**
 
 ## Neden ayrı bir depo?
 
@@ -23,4 +23,4 @@ Paketler burada, kaynak kod orada kalıyor.
 
 ## Sorun bildirimi
 
-Uygulamanın içinden **Ayarlar → Destek**, ya da destek@jazari.app.
+Uygulamanın içinden **Ayarlar → Destek**, ya da destek@jazaricode.com.
